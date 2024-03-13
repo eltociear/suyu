@@ -188,7 +188,7 @@ private:
     /// Syncs the LogicOp state to match the guest state
     void SyncLogicOpState();
 
-    /// Syncs the the color clamp state
+    /// Syncs the color clamp state
     void SyncFragmentColorClampState();
 
     /// Syncs the alpha coverage and alpha to one
